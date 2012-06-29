@@ -1,0 +1,7 @@
+{
+	"color_scheme": "Packages/Color Scheme - Tomorrow Night/Tomorrow-Night.tmTheme",
+	"theme": "Soda Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"highlight_line": true,
+	"rulers": [ 120	]
+}

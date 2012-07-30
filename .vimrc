@@ -1,4 +1,5 @@
 set nocompatible
+set tabstop=4
 set backspace=indent,eol,start
 set history=50
 set ruler

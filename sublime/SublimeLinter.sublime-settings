@@ -1,18 +1,18 @@
 {
 	"sublimelinter": "load-save",
-    "jshint_options":
-    {
-        "evil": true,
-        "regexdash": true,
-        "browser": true,
-        "wsh": true,
-        "trailing": true,
-        "sub": true,
-        "jquery": true,
-        "devel": true
-    },
-    "csslint_options":
-    {
-        "ids": false
-    }
+	"jshint_options":
+	{
+		"evil": true,
+		"regexdash": true,
+		"browser": true,
+		"wsh": true,
+		"trailing": true,
+		"sub": true,
+		"jquery": true,
+		"devel": true
+	},
+	"csslint_options":
+	{
+		"ids": false
+	}
 }

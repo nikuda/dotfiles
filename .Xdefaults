@@ -1,16 +1,19 @@
 XTerm*loginShell:true
 
+# URxvt
+URxvt.saveLines: 8192
+URxvt.scrollstyle: plain
+
+! Colors
 URxvt.background: #222222
 URxvt.foreground: #c3c2c5
 URxvt.cursorColor: #e2baf1
-#URxvt*scrollbar: false
+URxvt.underlineColor: #29a457
 
-URxvt.scrollstyle: plain
-
-!Colorado
+! Colorado Theme
 URxvt.color0: #222222
 URxvt.color1: #ea6868
-URxvt.color2:  #abcb8d
+URxvt.color2: #abcb8d
 URxvt.color3: #e8ae5b
 URxvt.color4: #71c5f4
 URxvt.color5: #e2baf1
@@ -20,7 +23,7 @@ URxvt.color8: #665c64
 URxvt.color9: #ff7272
 URxvt.color10: #afd78a
 URxvt.color11: #ffa75d
-URxvt.color12:  #67cde9
+URxvt.color12: #67cde9
 URxvt.color13: #ecaee9
 URxvt.color14: #36fffc
 URxvt.color15: #ffffff

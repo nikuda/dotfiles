@@ -8,8 +8,9 @@ set incsearch
 set hlsearch
 set background=dark
 syntax on
-let g:solarized_termtrans=1
-colorscheme solarized
+
+" let g:solarized_termtrans=1
+" colorscheme solarized
 
 if has('mouse')
   set mouse=a

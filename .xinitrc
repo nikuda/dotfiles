@@ -5,4 +5,4 @@ urxvtd -q -o -f
 /usr/X11R6/bin/xset fp+ /usr/local/lib/X11/fonts/terminus
 
 # WMs
-exec scrotwm
+spectrwm

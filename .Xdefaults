@@ -1,6 +1,7 @@
 XTerm*loginShell:true
 
 # URxvt
+URxvt.loginShell: true
 URxvt.font: xft:terminus:size=12
 URxvt.saveLines: 8192
 URxvt.scrollstyle: plain

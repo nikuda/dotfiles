@@ -1,4 +1,12 @@
-XTerm*loginShell:true
+# Xterm
+XTerm*loginShell: true
+
+XTerm*foreground: gray
+XTerm*background: black
+
+XTerm*faceName: IBM Plex
+XTerm*faceSize: 11
+
 
 # URxvt
 URxvt.loginShell: true
@@ -29,3 +37,4 @@ URxvt.color12: #67cde9
 URxvt.color13: #ecaee9
 URxvt.color14: #36fffc
 URxvt.color15: #ffffff
+

@@ -14,7 +14,7 @@
   hardware.enableRedistributableFirmware = true;
 
   # Latest Linux kernel
-  boot.kernelPackages = pkgs.linuxPackages_latest;
+  boot.kernelPackages = pkgs.linuxPackages_5_3;
 
   # Use the GRUB 2 boot loader.
   boot.loader.grub.enable = true;
@@ -82,6 +82,7 @@
 
   # Enable the X11 windowing system.
   services.xserver.enable = true;
+  # services.xserver.videoDrivers = [ "amdgpu" ];
   services.xserver.windowManager.spectrwm.enable = true;
 
   # Enable touchpad support.

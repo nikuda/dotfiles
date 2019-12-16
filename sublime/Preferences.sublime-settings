@@ -1,7 +1,9 @@
 {
+	"ignored_packages": [],
+	"theme": "Soda Dark 3.sublime-theme",
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
-	"theme": "Soda Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
 	"highlight_line": true,
 	"rulers": [ 80, 120	]
 }
